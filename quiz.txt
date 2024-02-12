@@ -1,0 +1,50 @@
+What programming language is commonly used for creating websites?
+a) Java
+b) Python
+c) HTML
+d) C++
+What does the abbreviation WWW stand for?
+a) World Wide Web
+b) Web World Wide
+c) World Website Web
+d) Wide Web World
+Which of the following tools is commonly used for version control of code?
+a) Photoshop
+b) Git
+c) Microsoft Word
+d) Google Chrome
+What does the abbreviation SQL stand for?
+a) Structured Query Language
+b) Simple Query Language
+c) Script Query Language
+d) System Query Language
+Which of the following operating systems is based on the Linux kernel?
+a) Windows
+b) macOS
+c) Ubuntu
+d) Android
+What is the primary function of a firewall in computer networking?
+a) Monitoring CPU temperature
+b) Protection against external attacks
+c) Accelerating data transfer
+d) Compressing files
+What is an algorithm?
+a) Website template
+b) AMD processor
+c) Sequence of instructions solving a problem
+d) Antivirus software
+Which of the following is an example of an object-oriented programming language?
+a) C
+b) Python
+c) Assembly
+d) HTML
+What does the abbreviation CPU stand for?
+a) Central Processing Unit
+b) Computer Power Unit
+c) Control Panel Utility
+d) Central Power Unit
+Which protocol is used for sending and receiving email?
+a) FTP
+b) SMTP
+c) HTTP
+d) DHCP
